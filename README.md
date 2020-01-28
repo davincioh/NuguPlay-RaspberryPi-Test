@@ -38,6 +38,8 @@ NUGU 디바이스(스피커)와 연동하여 진행하는 테스트는 실제 �
 --
 아리아, 라즈베리컨트롤 시작 
 라즈베리에서 LED 밝게해줘!
+
+[![NUGUPLAY](http://img.youtube.com/vi/3_8h87CGf0E/0.jpg)](https://youtu.be/3_8h87CGf0E)
  
  
 NUGU Biz 이용하기
